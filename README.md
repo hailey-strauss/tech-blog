@@ -39,4 +39,4 @@ To make a blog.
 
 <a name="Github"></a>
 
-https://github.com/hailey-strauss/notetaker
+https://github.com/hailey-strauss/tech-blog
